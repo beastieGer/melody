@@ -236,6 +236,7 @@ path.current-floor {
 }
 /* footer */
 .footer {
+	margin-top: 99px;
 	/* justify-content: space-between; */
 
 	background-color: #d7d7d7;
